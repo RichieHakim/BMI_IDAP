@@ -22,7 +22,7 @@ setup(
                       'pynwb',
                       'ipywidgets',
                       'pytest',
-                      'Pillow==7.2.0'
+                      'Pillow==9.3.0'
                       ]
 )
 
